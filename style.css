@@ -6,7 +6,7 @@ body{
 
 
 /*design for cellphones*/
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 390px) {
     .container{
     display: grid;
     grid-template-columns: 40% 15% 15% 15% 15%;
